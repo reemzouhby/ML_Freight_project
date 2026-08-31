@@ -32,7 +32,6 @@ Full detail, including the validation design and rejected alternatives, is in
 data/                            input CSVs (as supplied)
 src/pipeline.py                  the full solution, runnable end to end
 notebooks/exploration.ipynb      step-by-step EDA and model selection
-report/report.tex                report source
 report/report.pdf                report
 score.py                         provided scorer (unmodified)
 validation_predictions.csv       submission file
